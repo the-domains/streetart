@@ -1,7 +1,7 @@
 name: Street Art
 favicon: null
-layout_spectrum: 0.8
-typography_spectrum: 0.5
+layout_spectrum: 0.3649678654037416
+typography_spectrum: 0.29417783208191395
 cta:
   domain: null
   bucket: null
@@ -19,4 +19,5 @@ color:
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
+  rhythmicContrast: 0.5998047110624611
 purpose: []
